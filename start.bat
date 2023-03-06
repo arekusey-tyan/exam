@@ -1,0 +1,1 @@
+start cmd.exe /k npm start && start cmd.exe /k npm run server
